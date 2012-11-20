@@ -9,12 +9,12 @@ site: http://www-01.ibm.com/software/lotus/products/notes/
 
 The following RPMs should be placed into the cloned repository's root folder:
 
-- ibm_lotus_activities-<version>.i586.rpm
-- ibm_lotus_cae-<version>.i586.rpm
-- ibm_lotus_feedreader-<version>.i586.rpm
-- ibm_lotus_notes-<version>.i586.rpm
-- ibm_lotus_sametime-<version>.i586.rpm
-- ibm_lotus_symphony-<version>.i586.rpm
+- ibm_lotus_activities-`<version>`.i586.rpm
+- ibm_lotus_cae-`<version>`.i586.rpm
+- ibm_lotus_feedreader-`<version>`.i586.rpm
+- ibm_lotus_notes-`<version>`.i586.rpm
+- ibm_lotus_sametime-`<version>`.i586.rpm
+- ibm_lotus_symphony-`<version>`.i586.rpm
 
 Where `<version>` is replaced by the actual version of Lotus Notes. The version number should be
 written to the `notes-version` file, which is currently set to 8.5.3.
